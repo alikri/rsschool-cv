@@ -15,7 +15,7 @@ I develop a web application that assists patients in finding the right doctor. T
 
 #### **Contact Information:**
 
-* **Phone:** +48 510 402 736 || +38 (073) 887-8296
+* **Phone:** +48 510 402 736 or +38 (073) 887-8296
 * **E-mail:** alinanosovets6849@gmail.com 
 * **Telegram:** @alinanosovets 
 * **Discord:** Alina Nosovets (alikri)#7992
