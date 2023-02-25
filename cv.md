@@ -88,8 +88,10 @@ function duplicateEncode(word){
 		![Scrimba Certificate](https://i.imgur.com/JQ165D7.png "Scrimba Certificate")
 
 * freeCodeCamp: **Responsive Web Design**
+	+ [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 	![freeCodeCamp Certificate](https://i.imgur.com/Gzz63bK.png "freeCodeCamp Certificate")
-* freeCodeCamp: JavaScript Algorithms and Data Structures;
+* freeCodeCamp: JavaScript Algorithms and Data Structures:
+	+ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * Johns Hopkins University: HTML, CSS, and Javascript for Web Developers;
 	+ [HTML, CSS, and Javascript for Web Developers Course](https://www.coursera.org/learn/html-css-javascript-for-web-developers?action=enroll);
 		- [Restaurant Project GitHub](https://github.com/alikri/Restaurant-Project);
