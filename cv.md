@@ -1,12 +1,13 @@
 ******
 # **Alina Nosovets**
 ## **Frontend Developer**
+![Profile photo](https://i.imgur.com/o7yqN05.png "Profile photo")
 
-[**LinkedIn**](https://www.linkedin.com/in/alina-nosovets-ab8bb2186/)
+* [**LinkedIn**](https://www.linkedin.com/in/alina-nosovets-ab8bb2186/)
 
-[**GitHub**](https://github.com/alikri)
+* [**GitHub**](https://github.com/alikri)
 
-[**Pet Project**(still in progress)](http://doctorsearch.s3-website.eu-central-1.amazonaws.com/): 
+* [**Pet Project**(still in progress)](http://doctorsearch.s3-website.eu-central-1.amazonaws.com/): 
 I develop a web application that assists patients in finding the right doctor. The project was built with ReactJS, React Router, React Context, HTML, and SASS and was deployed on AWS S3 using AWS Lambda for improved performance.The project also utilized Amazon Amplify for authentication. In this project users can search for doctors based on their specific needs and preferences, read reviews and ratings, and find the perfect match. My skills that are introduced in this app will be valuable assets to future projects.
 
 
